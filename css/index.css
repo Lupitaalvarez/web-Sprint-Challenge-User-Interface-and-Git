@@ -216,3 +216,87 @@ header nav{
  .boxes .box:nth-child(10) {
      background: dodgerblue;
  }
+
+ .aboutt {
+     border-bottom: black 1px dashed;
+     padding-bottom: 20px;
+     
+ }
+
+ .aboutt h5 {
+     padding-left: 15px;
+ }
+
+ .aboutt p {
+    padding-left: 15px;
+ }
+
+ .first2 {
+        width: 100%;
+        
+        display:flex;
+        justify-content: center;  
+        padding-top: 25px; 
+        padding-left: 15px;
+        
+        
+        
+ }
+.strategy{
+    border-bottom: black 1px dashed;
+    padding-bottom: 20px;
+    
+   
+}
+ .strategy h5 {
+padding-top: 10px;
+ }
+ .howwework {
+    border-bottom: black 1px dashed;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    
+ }
+ .howwework h5{
+    padding-top: 10px;
+
+ }
+
+ .second2 {
+    width: 100%;
+    padding-bottom: 20px;
+    border-bottom: black 1px dashed;
+    display:flex;
+    justify-content: center;  
+    align-items: center;
+    padding-top: 50px; 
+    padding-left: 15px;
+    
+ }
+
+ .places h5 {
+     padding-top: 10px;
+ }
+
+ .collab h5 {
+    padding-top: 10px;
+ }
+
+ .collab {
+     padding-left: 15px;
+ }
+
+ .letswork {
+     padding-top: 40px;
+     padding-bottom: 40px;
+     padding-left: 15px;
+ }
+
+ button {
+     background: white;
+     color: black;
+     border-radius: 10px;
+     padding: 8px 20px;
+     font-size: 18px;
+ }
+ 
